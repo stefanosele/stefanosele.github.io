@@ -1,6 +1,7 @@
 ---
 layout: archive
 author_profile: true
+text-align: justify
 ---
 
 I'm one of the early members of PROWLER.io, joining the company from the very beginning, back in December 2016.
