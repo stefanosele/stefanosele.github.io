@@ -177,6 +177,7 @@ author_profile: true
 ---
 ## 2010
 1. S. Georgoulis, **S. Eleftheriadis**, D. Tzionas, K. Vrenas, P. Petrantonakis, L. J. Hadjileontiadis. Epione: An Innovative Pain Management System Using Facial Expression Analysis, Biofeedback and Augmented Reality-based Distraction. *Intelligent Networking and Collaborative Systems (INCOS)*.<br/>
+[<a href="../publications/files/georgoulis2010epione.pdf"><font color="1A75FF">pdf</font></a>]
 [<a href="javascript:toggleBibtex('georgoulis2010epione')"><font color="1A75FF">bibtex</font></a>]
   <div id="bib_georgoulis2010epione" class="bibtex noshow">
   <pre>
@@ -192,6 +193,7 @@ author_profile: true
   </div>
 
 2. D. Tzionas, K. Vrenas, *S. Eleftheriadis*, S. Georgoulis, P. Petrantonakis, L. J. Hadjileontiadis. Phantom Limb Pain Management Using Facial Expression Analysis, Biofeedback and Augmented Reality Interfacing. *International Conference on Software Development for Enhancing Accessibility and Fighting Infoexclusion (DSAI)*.<br/>
+[<a href="../publications/files/tzionas2010phantom.pdf"><font color="1A75FF">pdf</font></a>]
 [<a href="javascript:toggleBibtex('tzionas2010phantom')"><font color="1A75FF">bibtex</font></a>]
   <div id="bib_tzionas2010phantom" class="bibtex noshow">
   <pre>
