@@ -8,6 +8,20 @@ author_profile: true
 1. **S. Eleftheriadis**, T. F. W. Nicholson, M. P. Deisenroth, J. Hensman. Identification of Gaussian Process State Space Models. *Advances in Neural Information Processing Systems (NIPS)*.
 
 2. **S. Eleftheriadis**, O. Rudovic, M. P. Deisenroth, M. Pantic. Gaussian Process Domain Experts for Modeling of Facial Affect. *IEEE Transactions on Image Processing (TIP)*.
+[<a href="javascript:toggleBibtex('eleftheriadis2017tip')"><font color="1A75FF">bibtex</font></a>]
+  <div id="bib_eleftheriadis2017tip" class="bibtex noshow">
+  <pre>
+  @article{eleftheriadis2017tip,
+  author = {S. Eleftheriadis and O. Rudovic and M. P. Deisenroth and M. Pantic},
+    pages = {4697--4711},
+    journal = {IEEE Transactions on Image Processing},
+    number = {10},
+    title = {Gaussian Process Domain Experts for Modeling of Facial Affect},
+    volume = {26},
+    year = {2017}
+  }
+  </pre>
+  </div>
 
 3. D. L. Tran, R. Walecki, O. Rudovic, **S. Eleftheriadis**, B. Schuller, M. Pantic. DeepCoder: Semi-parametric Variational Autoencoders for Facial Action Unit Intensity Estimation. *International Conference on Computer Vision (ICCV)*.
 
