@@ -6,6 +6,7 @@ author_profile: true
 ---
 ## 2017
 1. **S. Eleftheriadis**, T. F. W. Nicholson, M. P. Deisenroth, J. Hensman. Identification of Gaussian Process State Space Models. *Advances in Neural Information Processing Systems (NIPS)*.<br/>
+[<a href="../publications/files/eleftheriadis2017identification.pdf"><font color="1A75FF">pdf</font></a>]
 [<a href="javascript:toggleBibtex('eleftheriadis2017identification')"><font color="1A75FF">bibtex</font></a>]
   <div id="bib_eleftheriadis2017identification" class="bibtex noshow">
   <pre>
@@ -19,6 +20,7 @@ author_profile: true
   </div>
 
 2. **S. Eleftheriadis**, O. Rudovic, M. P. Deisenroth, M. Pantic. Gaussian Process Domain Experts for Modeling of Facial Affect. *IEEE Transactions on Image Processing (TIP)*.<br/>
+[<a href="../publications/files/eleftheriadis2017tip.pdf"><font color="1A75FF">pdf</font></a>]
 [<a href="javascript:toggleBibtex('eleftheriadis2017tip')"><font color="1A75FF">bibtex</font></a>]
   <div id="bib_eleftheriadis2017tip" class="bibtex noshow">
   <pre>
@@ -36,6 +38,7 @@ author_profile: true
   </div>
 
 3. D. L. Tran, R. Walecki, O. Rudovic, **S. Eleftheriadis**, B. Schuller, M. Pantic. DeepCoder: Semi-parametric Variational Autoencoders for Facial Action Unit Intensity Estimation. *International Conference on Computer Vision (ICCV)*.<br/>
+[<a href="../publications/files/tran2017deep.pdf"><font color="1A75FF">pdf</font></a>]
 [<a href="javascript:toggleBibtex('tran2017deep')"><font color="1A75FF">bibtex</font></a>]
   <div id="bib_tran2017deep" class="bibtex noshow">
   <pre>
@@ -51,6 +54,7 @@ author_profile: true
 ---
 ## 2016
 1. **S. Eleftheriadis**, O. Rudovic, M. P. Deisenroth, M. Pantic. Variational Gaussian Process Auto-Encoder for Ordinal Prediction of Facial Action Units. *Asian Conference on Computer Vision (ACCV).<br/>
+[<a href="../publications/files/eleftheriadis2016variational.pdf"><font color="1A75FF">pdf</font></a>]
 [<a href="javascript:toggleBibtex('eleftheriadis2016variational')"><font color="1A75FF">bibtex</font></a>]
   <div id="bib_eleftheriadis2016variational" class="bibtex noshow">
   <pre>
@@ -66,6 +70,7 @@ author_profile: true
   </div>
 
 2. **S. Eleftheriadis**, O. Rudovic, M. Pantic. Joint Facial Action Unit Detection and Feature Fusion: A Multi-Conditional Learning Approach. *IEEE Transactions on Image Processing (TIP)*.<br/>
+[<a href="../publications/files/eleftheriadis2016joint.pdf"><font color="1A75FF">pdf</font></a>]
 [<a href="javascript:toggleBibtex('eleftheriadis2016joint')"><font color="1A75FF">bibtex</font></a>]
   <div id="bib_eleftheriadis2016joint" class="bibtex noshow">
   <pre>
@@ -83,6 +88,7 @@ author_profile: true
   </div>
 
 3. **S. Eleftheriadis**, O. Rudovic, M. P. Deisenroth, M. Pantic. Gaussian Process Domain Experts for Model Adaptation in Facial Behavior Analysis. *International Conference on Computer Vision and Pattern Recognition Workshops (CVPR-W)*.<br/>
+[<a href="../publications/files/eleftheriadis2016gpde.pdf"><font color="1A75FF">pdf</font></a>]
 [<a href="javascript:toggleBibtex('eleftheriadis2016gpde')"><font color="1A75FF">bibtex</font></a>]
   <div id="bib_eleftheriadis2016gpde" class="bibtex noshow">
   <pre>
@@ -99,6 +105,7 @@ author_profile: true
 ---
 ## 2015
 1. **S. Eleftheriadis**, O. Rudovic, M. Pantic. Multi-conditional Latent Variable Model for Joint Facial Action Unit Detection. *International Conference on Computer Vision (ICCV)*.<br/>
+[<a href="../publications/files/eleftheriadis2015multi.pdf"><font color="1A75FF">pdf</font></a>]
 [<a href="javascript:toggleBibtex('eleftheriadis2015multi')"><font color="1A75FF">bibtex</font></a>]
   <div id="bib_eleftheriadis2015multi" class="bibtex noshow">
   <pre>
@@ -114,6 +121,7 @@ author_profile: true
 
 
 2. **S. Eleftheriadis**, O. Rudovic, M. Pantic. Discriminative Shared Gaussian Processes for Multi-view and View-invariant Facial Expression Recognition. *IEEE Transactions on Image Processing (TIP)*.<br/>
+[<a href="../publications/files/eleftheriadis2015discriminative.pdf"><font color="1A75FF">pdf</font></a>]
 [<a href="javascript:toggleBibtex('eleftheriadis2015discriminative')"><font color="1A75FF">bibtex</font></a>]
   <div id="bib_eleftheriadis2015discriminative" class="bibtex noshow">
   <pre>
@@ -133,6 +141,7 @@ author_profile: true
 ---
 ## 2014
 1. **S. Eleftheriadis**, O. Rudovic, M. Pantic. View-constrained Latent Variable Model for Multi-view Facial Expression Classification. *International Symposium on Visual Computing (ISVC)*.<br/>
+[<a href="../publications/files/eleftheriadis2014view.pdf"><font color="1A75FF">pdf</font></a>]
 [<a href="javascript:toggleBibtex('eleftheriadis2014view')"><font color="1A75FF">bibtex</font></a>]
   <div id="bib_eleftheriadis2014view" class="bibtex noshow">
   <pre>
@@ -150,6 +159,7 @@ author_profile: true
 ---
 ## 2013
 1. **S. Eleftheriadis**, O. Rudovic, M. Pantic. Shared Gaussian Process Latent Variable Model for Multi-view Facial Expression Recognition. *International Symposium on Visual Computing (ISVC)*.<br/>
+[<a href="../publications/files/eleftheriadis2013shared.pdf"><font color="1A75FF">pdf</font></a>]
 [<a href="javascript:toggleBibtex('eleftheriadis2013shared')"><font color="1A75FF">bibtex</font></a>]
   <div id="bib_eleftheriadis2013shared" class="bibtex noshow">
   <pre>
@@ -197,6 +207,7 @@ author_profile: true
 ---
 ## Thesis
 **S. Eleftheriadis**. Gaussian Processes for Modeling of Facial Expressions. Imperial College London. PhD Thesis.<br/>
+[<a href="../publications/files/eleftheriadis2016thesis.pdf"><font color="1A75FF">pdf</font></a>]
 [<a href="javascript:toggleBibtex('eleftheriadis2016thesis')"><font color="1A75FF">bibtex</font></a>]
   <div id="bib_eleftheriadis2016thesis" class="bibtex noshow">
   <pre>
