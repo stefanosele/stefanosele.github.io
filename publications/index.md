@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: page
 author_profile: true
 ---
 
@@ -8,6 +8,7 @@ author_profile: true
 1. **S. Eleftheriadis**, T. F. W. Nicholson, M. P. Deisenroth, J. Hensman. Identification of Gaussian Process State Space Models. *Advances in Neural Information Processing Systems (NIPS)*.
 
 2. **S. Eleftheriadis**, O. Rudovic, M. P. Deisenroth, M. Pantic. Gaussian Process Domain Experts for Modeling of Facial Affect. *IEEE Transactions on Image Processing (TIP)*.
+
 [<a href="javascript:toggleBibtex('eleftheriadis2017tip')"><font color="1A75FF">bibtex</font></a>]
   <div id="bib_eleftheriadis2017tip" class="bibtex noshow">
   <pre>
