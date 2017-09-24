@@ -5,7 +5,18 @@ author_profile: true
 
 ---
 ## 2017
-1. **S. Eleftheriadis**, T. F. W. Nicholson, M. P. Deisenroth, J. Hensman. Identification of Gaussian Process State Space Models. *Advances in Neural Information Processing Systems (NIPS)*.
+1. **S. Eleftheriadis**, T. F. W. Nicholson, M. P. Deisenroth, J. Hensman. Identification of Gaussian Process State Space Models. *Advances in Neural Information Processing Systems (NIPS)*.<br/>
+[<a href="javascript:toggleBibtex('eleftheriadis2017identification')"><font color="1A75FF">bibtex</font></a>]
+  <div id="bib_eleftheriadis2017identification" class="bibtex noshow">
+  <pre>
+  @article{eleftheriadis2017identification,
+  title={Identification of Gaussian Process State Space Models},
+  author={Eleftheriadis, Stefanos and Nicholson, Thomas FW and Deisenroth, Marc Peter and Hensman, James},
+  journal={arXiv preprint arXiv:1705.10888},
+  year={2017}
+}
+  </pre>
+  </div>
 
 2. **S. Eleftheriadis**, O. Rudovic, M. P. Deisenroth, M. Pantic. Gaussian Process Domain Experts for Modeling of Facial Affect. *IEEE Transactions on Image Processing (TIP)*.<br/>
 [<a href="javascript:toggleBibtex('eleftheriadis2017tip')"><font color="1A75FF">bibtex</font></a>]
@@ -24,7 +35,18 @@ author_profile: true
   </pre>
   </div>
 
-3. D. L. Tran, R. Walecki, O. Rudovic, **S. Eleftheriadis**, B. Schuller, M. Pantic. DeepCoder: Semi-parametric Variational Autoencoders for Facial Action Unit Intensity Estimation. *International Conference on Computer Vision (ICCV)*.
+3. D. L. Tran, R. Walecki, O. Rudovic, **S. Eleftheriadis**, B. Schuller, M. Pantic. DeepCoder: Semi-parametric Variational Autoencoders for Facial Action Unit Intensity Estimation. *International Conference on Computer Vision (ICCV)*.<br/>
+[<a href="javascript:toggleBibtex('tran2017deep')"><font color="1A75FF">bibtex</font></a>]
+  <div id="bib_tran2017deep" class="bibtex noshow">
+  <pre>
+@inproceedings{tran2017deep,
+  title={DeepCoder: Semi-parametric Variational Autoencoders for Facial Action Unit Intensity Estimation},
+  author={Tran, Dieu Linh and Walecki, Robert Rudovic, Ognjen and Eleftheriadis, Stefanos and Schuller, Bjoern and Pantic, Maja},
+  journal={arXiv preprint arXiv:1704.02206},
+  year={2017}
+}
+  </pre>
+  </div>
 
 ---
 ## 2016
