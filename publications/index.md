@@ -38,3 +38,7 @@ author_profile: true
 1. S. Georgoulis, **S. Eleftheriadis**, D. Tzionas, K. Vrenas, P. Petrantonakis, L. J. Hadjileontiadis. Epione: An Innovative Pain Management System Using Facial Expression Analysis, Biofeedback and Augmented Reality-based Distraction. *Intelligent Networking and Collaborative Systems (INCOS)*.
 
 2. D. Tzionas, K. Vrenas, *S. Eleftheriadis*, S. Georgoulis, P. Petrantonakis, L. J. Hadjileontiadis. Phantom Limb Pain Management Using Facial Expression Analysis, Biofeedback and Augmented Reality Interfacing. *International Conference on Software Development for Enhancing Accessibility and Fighting Infoexclusion (DSAI)*.
+
+---
+## Thesis
+**S. Eleftheriadis**. Gaussian Processes for Modeling of Facial Expressions. Imperial College London. PhD Thesis.
