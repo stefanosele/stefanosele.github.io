@@ -27,18 +27,18 @@ author_profile: true
 ---
 ## 2017
 1. **S. Eleftheriadis**, T. F. W. Nicholson, M. P. Deisenroth, J. Hensman. Identification of Gaussian Process State Space Models. *Advances in Neural Information Processing Systems (NIPS)*.<br/>
-[<a href="../publications/files/eleftheriadis2017identification.pdf"><font color="1A75FF">pdf</font></a>]
-[<a href="../publications/files/gpssm_supp_mat.pdf"><font color="1A75FF">supplementary</font></a>]
-[<a href="javascript:toggleBibtex('eleftheriadis2017identification')"><font color="1A75FF">bibtex</font></a>]
+  [<a href="../publications/files/eleftheriadis2017identification.pdf"><font color="1A75FF">pdf</font></a>]
+  [<a href="../publications/files/gpssm_supp_mat.pdf"><font color="1A75FF">supplementary</font></a>]
+  [<a href="javascript:toggleBibtex('eleftheriadis2017identification')"><font color="1A75FF">bibtex</font></a>]
   <div id="bib_eleftheriadis2017identification" class="bibtex noshow">
   <pre>
-  @inproceedings{eleftheriadis2017identification,
-  title={Identification of Gaussian Process State Space Models},
-  author={Eleftheriadis, Stefanos and Nicholson, Thomas FW and Deisenroth, Marc Peter and Hensman, James},
-  booktitle={Advances in Neural Information Processing Systems},
-  pages={5315--5325}
-  year={2017}
-}
+    @inproceedings{eleftheriadis2017identification,
+    title={Identification of Gaussian Process State Space Models},
+    author={Eleftheriadis, Stefanos and Nicholson, Thomas FW and Deisenroth, Marc Peter and Hensman, James},
+    booktitle={Advances in Neural Information Processing Systems},
+    pages={5315--5325},
+    year={2017}
+    }
   </pre>
   </div>
 
