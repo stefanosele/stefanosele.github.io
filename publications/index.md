@@ -4,6 +4,27 @@ author_profile: true
 ---
 
 ---
+## 2018
+1. H. Salimbeni, **S. Eleftheriadis**, J. Hensman. Natural Gradients in Practice: Non-Conjugate Variational Inference in Gaussian Process Models. *International Conference on Artificial Intelligence and Statistics (AISTATS)*.<br/>
+[<a href="../publications/files/salimbeni2018natgrads.pdf"><font color="1A75FF">pdf</font></a>]
+[<a href="../publications/files/natgrads_supp_mat.pdf"><font color="1A75FF">supplementary</font></a>]
+[<a href="javascript:toggleBibtex('salimbeni2018natgrads')"><font color="1A75FF">bibtex</font></a>]
+  <div id="bib_salimbeni2018natgrads" class="bibtex noshow">
+  <pre>
+@inproceedings{salimbeni2018natgrads,
+  title = 	 {Natural Gradients in Practice: Non-Conjugate Variational Inference in Gaussian Process Models},
+  author = 	 {Hugh Salimbeni and Stefanos Eleftheriadis and James Hensman},
+  booktitle = 	 {Proceedings of the Twenty-First International Conference on Artificial Intelligence and Statistics},
+  pages = 	 {689--697},
+  year = 	 {2018},
+  volume = 	 {84},
+  series = 	 {Proceedings of Machine Learning Research},
+  publisher = 	 {PMLR}
+}
+  </pre>
+  </div>
+  
+---
 ## 2017
 1. **S. Eleftheriadis**, T. F. W. Nicholson, M. P. Deisenroth, J. Hensman. Identification of Gaussian Process State Space Models. *Advances in Neural Information Processing Systems (NIPS)*.<br/>
 [<a href="../publications/files/eleftheriadis2017identification.pdf"><font color="1A75FF">pdf</font></a>]
