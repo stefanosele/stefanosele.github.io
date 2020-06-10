@@ -4,8 +4,45 @@ author_profile: true
 ---
 
 ---
+## 2020
+- V. Adam, **S. Eleftheriadis**, N. Durrande, A. Artemev, J. Hensman. Doubly sparse variational Gaussian processes. *International Conference on Artificial Intelligence and Statistics (AISTATS)*.<br/>
+[<a href="../publications/files/adam2020doubly.pdf"><font color="1A75FF">pdf</font></a>]
+[<a href="../publications/files/doubly_supp_mat.pdf"><font color="1A75FF">supplementary</font></a>]
+[<a href="javascript:toggleBibtex('adam2020doubly')"><font color="1A75FF">bibtex</font></a>]
+  <div id="bib_adam2020doubly" class="bibtex noshow">
+  <pre>
+@inproceedings{adam2020doubly,
+  title = 	 {Doubly sparse variational Gaussian processes},
+  author = 	 {Adam, Vincent and and Eleftheriadis, Stefanos and Durrande, Nicolas and Artemev, Artem and Hensman, James},
+  booktitle = 	 {Proceedings of the Twenty-Third International Conference on Artificial Intelligence and Statistics},
+  year = 	 {2020},
+  series = 	 {Proceedings of Machine Learning Research},
+  publisher = 	 {PMLR}
+}
+  </pre>
+  </div>
+  
+## 2019
+- N. Durrande, V. Adam, L. Bordeaux, **S. Eleftheriadis**, J. Hensman. Banded matrix operators for Gaussian Markov models in the automatic differentiation era. *International Conference on Artificial Intelligence and Statistics (AISTATS)*.
+[<a href="../publications/files/durrande2019banded.pdf"><font color="1A75FF">pdf</font></a>]
+[<a href="../publications/files/banded_supp_mat.pdf"><font color="1A75FF">supplementary</font></a>]
+[<a href="javascript:toggleBibtex('durrande2019banded')"><font color="1A75FF">bibtex</font></a>]
+  <div id="bib_durrande2019banded" class="bibtex noshow">
+  <pre>
+@inproceedings{durrande2019banded,
+  title = 	 {Banded Matrix Operators for Gaussian Markov Models in the Automatic Differentiation Era},
+  author = 	 {Durrande, Nicolas and Adam, Vincent and Bordeaux, Lucas and Eleftheriadis, Stefanos and Hensman, James},
+  booktitle = 	 {Proceedings of the Twenty-Second International Conference on Artificial Intelligence and Statistics},
+  pages = 	 {2780--2789},
+  year = 	 {2019},
+  volume = 	 {89},
+  series = 	 {Proceedings of Machine Learning Research},
+  publisher = 	 {PMLR},
+  </pre>
+  </div>
+
 ## 2018
-1. H. Salimbeni, **S. Eleftheriadis**, J. Hensman. Natural Gradients in Practice: Non-Conjugate Variational Inference in Gaussian Process Models. *International Conference on Artificial Intelligence and Statistics (AISTATS)*.<br/>
+- H. Salimbeni, **S. Eleftheriadis**, J. Hensman. Natural Gradients in Practice: Non-Conjugate Variational Inference in Gaussian Process Models. *International Conference on Artificial Intelligence and Statistics (AISTATS)*.<br/>
 [<a href="../publications/files/salimbeni2018natgrads.pdf"><font color="1A75FF">pdf</font></a>]
 [<a href="../publications/files/natgrads_supp_mat.pdf"><font color="1A75FF">supplementary</font></a>]
 [<a href="javascript:toggleBibtex('salimbeni2018natgrads')"><font color="1A75FF">bibtex</font></a>]
@@ -26,7 +63,7 @@ author_profile: true
   
 ---
 ## 2017
-1. **S. Eleftheriadis**, T. F. W. Nicholson, M. P. Deisenroth, J. Hensman. Identification of Gaussian Process State Space Models. *Advances in Neural Information Processing Systems (NIPS)*.<br/>
+- **S. Eleftheriadis**, T. F. W. Nicholson, M. P. Deisenroth, J. Hensman. Identification of Gaussian Process State Space Models. *Advances in Neural Information Processing Systems (NIPS)*.<br/>
   [<a href="../publications/files/eleftheriadis2017identification.pdf"><font color="1A75FF">pdf</font></a>]
   [<a href="../publications/files/gpssm_supp_mat.pdf"><font color="1A75FF">supplementary</font></a>]
   [<a href="javascript:toggleBibtex('eleftheriadis2017identification')"><font color="1A75FF">bibtex</font></a>]
@@ -42,7 +79,7 @@ author_profile: true
   </pre>
   </div>
 
-2. **S. Eleftheriadis**, O. Rudovic, M. P. Deisenroth, M. Pantic. Gaussian Process Domain Experts for Modeling of Facial Affect. *IEEE Transactions on Image Processing (TIP)*.<br/>
+- **S. Eleftheriadis**, O. Rudovic, M. P. Deisenroth, M. Pantic. Gaussian Process Domain Experts for Modeling of Facial Affect. *IEEE Transactions on Image Processing (TIP)*.<br/>
 [<a href="../publications/files/eleftheriadis2017tip.pdf"><font color="1A75FF">pdf</font></a>]
 [<a href="javascript:toggleBibtex('eleftheriadis2017tip')"><font color="1A75FF">bibtex</font></a>]
   <div id="bib_eleftheriadis2017tip" class="bibtex noshow">
@@ -60,7 +97,7 @@ author_profile: true
   </pre>
   </div>
 
-3. D. L. Tran, R. Walecki, O. Rudovic, **S. Eleftheriadis**, B. Schuller, M. Pantic. DeepCoder: Semi-parametric Variational Autoencoders for Facial Action Unit Intensity Estimation. *International Conference on Computer Vision (ICCV)*.<br/>
+- D. L. Tran, R. Walecki, O. Rudovic, **S. Eleftheriadis**, B. Schuller, M. Pantic. DeepCoder: Semi-parametric Variational Autoencoders for Facial Action Unit Intensity Estimation. *International Conference on Computer Vision (ICCV)*.<br/>
 [<a href="../publications/files/tran2017deep.pdf"><font color="1A75FF">pdf</font></a>]
 [<a href="javascript:toggleBibtex('tran2017deep')"><font color="1A75FF">bibtex</font></a>]
   <div id="bib_tran2017deep" class="bibtex noshow">
@@ -76,7 +113,7 @@ author_profile: true
 
 ---
 ## 2016
-1. **S. Eleftheriadis**, O. Rudovic, M. P. Deisenroth, M. Pantic. Variational Gaussian Process Auto-Encoder for Ordinal Prediction of Facial Action Units. *Asian Conference on Computer Vision (ACCV).<br/>
+- **S. Eleftheriadis**, O. Rudovic, M. P. Deisenroth, M. Pantic. Variational Gaussian Process Auto-Encoder for Ordinal Prediction of Facial Action Units. *Asian Conference on Computer Vision (ACCV)*.<br/>
 [<a href="../publications/files/eleftheriadis2016variational.pdf"><font color="1A75FF">pdf</font></a>]
 [<a href="javascript:toggleBibtex('eleftheriadis2016variational')"><font color="1A75FF">bibtex</font></a>]
   <div id="bib_eleftheriadis2016variational" class="bibtex noshow">
@@ -92,7 +129,7 @@ author_profile: true
   </pre>
   </div>
 
-2. **S. Eleftheriadis**, O. Rudovic, M. Pantic. Joint Facial Action Unit Detection and Feature Fusion: A Multi-Conditional Learning Approach. *IEEE Transactions on Image Processing (TIP)*.<br/>
+- **S. Eleftheriadis**, O. Rudovic, M. Pantic. Joint Facial Action Unit Detection and Feature Fusion: A Multi-Conditional Learning Approach. *IEEE Transactions on Image Processing (TIP)*.<br/>
 [<a href="../publications/files/eleftheriadis2016joint.pdf"><font color="1A75FF">pdf</font></a>]
 [<a href="javascript:toggleBibtex('eleftheriadis2016joint')"><font color="1A75FF">bibtex</font></a>]
   <div id="bib_eleftheriadis2016joint" class="bibtex noshow">
@@ -110,7 +147,7 @@ author_profile: true
   </pre>
   </div>
 
-3. **S. Eleftheriadis**, O. Rudovic, M. P. Deisenroth, M. Pantic. Gaussian Process Domain Experts for Model Adaptation in Facial Behavior Analysis. *International Conference on Computer Vision and Pattern Recognition Workshops (CVPR-W)*.<br/>
+- **S. Eleftheriadis**, O. Rudovic, M. P. Deisenroth, M. Pantic. Gaussian Process Domain Experts for Model Adaptation in Facial Behavior Analysis. *International Conference on Computer Vision and Pattern Recognition Workshops (CVPR-W)*.<br/>
 [<a href="../publications/files/eleftheriadis2016gpde.pdf"><font color="1A75FF">pdf</font></a>]
 [<a href="javascript:toggleBibtex('eleftheriadis2016gpde')"><font color="1A75FF">bibtex</font></a>]
   <div id="bib_eleftheriadis2016gpde" class="bibtex noshow">
@@ -127,7 +164,7 @@ author_profile: true
 
 ---
 ## 2015
-1. **S. Eleftheriadis**, O. Rudovic, M. Pantic. Multi-conditional Latent Variable Model for Joint Facial Action Unit Detection. *International Conference on Computer Vision (ICCV)*.<br/>
+- **S. Eleftheriadis**, O. Rudovic, M. Pantic. Multi-conditional Latent Variable Model for Joint Facial Action Unit Detection. *International Conference on Computer Vision (ICCV)*.<br/>
 [<a href="../publications/files/eleftheriadis2015multi.pdf"><font color="1A75FF">pdf</font></a>]
 [<a href="javascript:toggleBibtex('eleftheriadis2015multi')"><font color="1A75FF">bibtex</font></a>]
   <div id="bib_eleftheriadis2015multi" class="bibtex noshow">
@@ -143,7 +180,7 @@ author_profile: true
   </div>
 
 
-2. **S. Eleftheriadis**, O. Rudovic, M. Pantic. Discriminative Shared Gaussian Processes for Multi-view and View-invariant Facial Expression Recognition. *IEEE Transactions on Image Processing (TIP)*.<br/>
+- **S. Eleftheriadis**, O. Rudovic, M. Pantic. Discriminative Shared Gaussian Processes for Multi-view and View-invariant Facial Expression Recognition. *IEEE Transactions on Image Processing (TIP)*.<br/>
 [<a href="../publications/files/eleftheriadis2015discriminative.pdf"><font color="1A75FF">pdf</font></a>]
 [<a href="javascript:toggleBibtex('eleftheriadis2015discriminative')"><font color="1A75FF">bibtex</font></a>]
   <div id="bib_eleftheriadis2015discriminative" class="bibtex noshow">
@@ -163,7 +200,7 @@ author_profile: true
 
 ---
 ## 2014
-1. **S. Eleftheriadis**, O. Rudovic, M. Pantic. View-constrained Latent Variable Model for Multi-view Facial Expression Classification. *International Symposium on Visual Computing (ISVC)*.<br/>
+- **S. Eleftheriadis**, O. Rudovic, M. Pantic. View-constrained Latent Variable Model for Multi-view Facial Expression Classification. *International Symposium on Visual Computing (ISVC)*.<br/>
 [<a href="../publications/files/eleftheriadis2014view.pdf"><font color="1A75FF">pdf</font></a>]
 [<a href="javascript:toggleBibtex('eleftheriadis2014view')"><font color="1A75FF">bibtex</font></a>]
   <div id="bib_eleftheriadis2014view" class="bibtex noshow">
@@ -181,7 +218,7 @@ author_profile: true
 
 ---
 ## 2013
-1. **S. Eleftheriadis**, O. Rudovic, M. Pantic. Shared Gaussian Process Latent Variable Model for Multi-view Facial Expression Recognition. *International Symposium on Visual Computing (ISVC)*.<br/>
+- **S. Eleftheriadis**, O. Rudovic, M. Pantic. Shared Gaussian Process Latent Variable Model for Multi-view Facial Expression Recognition. *International Symposium on Visual Computing (ISVC)*.<br/>
 [<a href="../publications/files/eleftheriadis2013shared.pdf"><font color="1A75FF">pdf</font></a>]
 [<a href="javascript:toggleBibtex('eleftheriadis2013shared')"><font color="1A75FF">bibtex</font></a>]
   <div id="bib_eleftheriadis2013shared" class="bibtex noshow">
@@ -199,7 +236,7 @@ author_profile: true
 
 ---
 ## 2010
-1. S. Georgoulis, **S. Eleftheriadis**, D. Tzionas, K. Vrenas, P. Petrantonakis, L. J. Hadjileontiadis. Epione: An Innovative Pain Management System Using Facial Expression Analysis, Biofeedback and Augmented Reality-based Distraction. *Intelligent Networking and Collaborative Systems (INCOS)*.<br/>
+- S. Georgoulis, **S. Eleftheriadis**, D. Tzionas, K. Vrenas, P. Petrantonakis, L. J. Hadjileontiadis. Epione: An Innovative Pain Management System Using Facial Expression Analysis, Biofeedback and Augmented Reality-based Distraction. *Intelligent Networking and Collaborative Systems (INCOS)*.<br/>
 [<a href="../publications/files/georgoulis2010epione.pdf"><font color="1A75FF">pdf</font></a>]
 [<a href="javascript:toggleBibtex('georgoulis2010epione')"><font color="1A75FF">bibtex</font></a>]
   <div id="bib_georgoulis2010epione" class="bibtex noshow">
@@ -215,7 +252,7 @@ author_profile: true
   </pre>
   </div>
 
-2. D. Tzionas, K. Vrenas, *S. Eleftheriadis*, S. Georgoulis, P. Petrantonakis, L. J. Hadjileontiadis. Phantom Limb Pain Management Using Facial Expression Analysis, Biofeedback and Augmented Reality Interfacing. *International Conference on Software Development for Enhancing Accessibility and Fighting Infoexclusion (DSAI)*.<br/>
+- D. Tzionas, K. Vrenas, *S. Eleftheriadis*, S. Georgoulis, P. Petrantonakis, L. J. Hadjileontiadis. Phantom Limb Pain Management Using Facial Expression Analysis, Biofeedback and Augmented Reality Interfacing. *International Conference on Software Development for Enhancing Accessibility and Fighting Infoexclusion (DSAI)*.<br/>
 [<a href="../publications/files/tzionas2010phantom.pdf"><font color="1A75FF">pdf</font></a>]
 [<a href="javascript:toggleBibtex('tzionas2010phantom')"><font color="1A75FF">bibtex</font></a>]
   <div id="bib_tzionas2010phantom" class="bibtex noshow">
