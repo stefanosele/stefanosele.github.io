@@ -21,9 +21,10 @@ author_profile: true
 }
   </pre>
   </div>
-  
+
+---
 ## 2019
-- N. Durrande, V. Adam, L. Bordeaux, **S. Eleftheriadis**, J. Hensman. Banded matrix operators for Gaussian Markov models in the automatic differentiation era. *International Conference on Artificial Intelligence and Statistics (AISTATS)*.
+- N. Durrande, V. Adam, L. Bordeaux, **S. Eleftheriadis**, J. Hensman. Banded matrix operators for Gaussian Markov models in the automatic differentiation era. *International Conference on Artificial Intelligence and Statistics (AISTATS)*.<br/>
 [<a href="../publications/files/durrande2019banded.pdf"><font color="1A75FF">pdf</font></a>]
 [<a href="../publications/files/banded_supp_mat.pdf"><font color="1A75FF">supplementary</font></a>]
 [<a href="javascript:toggleBibtex('durrande2019banded')"><font color="1A75FF">bibtex</font></a>]
@@ -41,6 +42,7 @@ author_profile: true
   </pre>
   </div>
 
+---
 ## 2018
 - H. Salimbeni, **S. Eleftheriadis**, J. Hensman. Natural Gradients in Practice: Non-Conjugate Variational Inference in Gaussian Process Models. *International Conference on Artificial Intelligence and Statistics (AISTATS)*.<br/>
 [<a href="../publications/files/salimbeni2018natgrads.pdf"><font color="1A75FF">pdf</font></a>]
