@@ -10,4 +10,4 @@ Before that I studied in Aristotle University of Thessaloniki where I received m
 
 Between my undergrad and doctoral studies I worked as a research assistant at the [signal processing and biomedical technology unit lab](http://psyche.ee.auth.gr/) with [Prof. Leontios Hadjileontiadis](http://psyche.ee.auth.gr/index.php?option=com_content&view=article&id=18%3A2010-10-25-16-52-20&catid=4%3Aproffesors&Itemid=10&lang=en).
 
-In the early years, together with [Stamatis Georgoulis](http://homes.esat.kuleuven.be/~sgeorgou/), [Dimitris Tzionas](https://www.dimtzionas.com/) and Kostas Vrenas we took part in Microsoft's Imagine Cup software developement competition and participated in the world finals after receiving the 1st national award for our project *Epione*.
+In the early years, together with [Stamatis Georgoulis](http://people.ee.ethz.ch/~georgous/), [Dimitris Tzionas](https://www.dimtzionas.com/) and Kostas Vrenas we took part in Microsoft's Imagine Cup software developement competition and participated in the world finals after receiving the 1st national award for our project *Epione*.
