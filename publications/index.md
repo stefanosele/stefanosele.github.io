@@ -15,7 +15,9 @@ author_profile: true
   title = 	 {Doubly sparse variational Gaussian processes},
   author = 	 {Adam, Vincent and and Eleftheriadis, Stefanos and Durrande, Nicolas and Artemev, Artem and Hensman, James},
   booktitle = 	 {Proceedings of the Twenty-Third International Conference on Artificial Intelligence and Statistics},
+  pages = {2874--2884},
   year = 	 {2020},
+  volume = {108},
   series = 	 {Proceedings of Machine Learning Research},
   publisher = 	 {PMLR}
 }
