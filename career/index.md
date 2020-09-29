@@ -3,7 +3,7 @@ layout: single
 author_profile: true
 ---
 
-I'm one of the early members of [PROWLER.io](www.prowler.io) joining the company from the very beginning, back in December 2016. I started as a senior machine learning researcher helping to build the research team and the technology of the company. I'm currently an applied scientist focusing on creating new models that are directly applicable to customer products.
+I'm one of the early members of [Secondmind](https://secondmind.ai) joining the company from the very beginning, back in December 2016. I started as a senior machine learning researcher helping to build the research team and the technology of the company. I'm currently an applied scientist focusing on creating new models that are directly applicable to customer products.
 
 Previously I was a research assistant at Imperial College London where I got my PhD in Computing at the [intelligent behaviour understanding group (iBUG)](https://ibug.doc.ic.ac.uk/) under the supervision of [Prof. Maja Pantic](https://ibug.doc.ic.ac.uk/maja/).
 Before that I studied in Aristotle University of Thessaloniki where I received my Diploma in Electrical and Computing Engineering.
