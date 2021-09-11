@@ -7,7 +7,7 @@ author_profile: true
 # Welcome!
 
 I'm an applied machine learning scientist at Amazon, where I build Bayesian emulators for Amazon's marketplace simulator.
-Before Amazon, I worked as an applied scientist at [Secondmind](http://secondmind.ai), specialising on probabilistic models for time series analysis and forecasting.
+Before Amazon, I worked as an applied scientist at [Secondmind](http://secondmind.ai), specialising in probabilistic models for time series analysis and forecasting.
 I received my PhD in Computing from [Imperial College London](http://www.imperial.ac.uk/computing).
 
 I actively do research around Gaussian processes (GPs) with particular focus on fast and efficient approximate inference. I am also interested in state-space models, graph models, stochastic variance estimation (heteroskedasticity) and optimising GPs with natural gradients.
