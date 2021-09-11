@@ -2,8 +2,9 @@
 layout: single
 author_profile: true
 ---
+I'm an applied machine learning scientist in the supply chain optimisation technology (SCOT) team at Amazon. I build Bayesian emulators of Amazon's marketplace components used in simulating scenarios for inventory planning and control.
 
-I'm one of the early members of [Secondmind](http://secondmind.ai) joining the company from the very beginning, back in December 2016. I started as a senior machine learning researcher helping to build the research team and the technology of the company. I'm currently an applied scientist focusing on creating new models that are directly applicable to customer products.
+Before joining Amazon, I was exploring the start-up world as an early member of [Secondmind](http://secondmind.ai). I started as a senior machine learning researcher helping to build the research team and the technology of the company and then shifted to an applied scientist role focusing on creating new models for customer products.
 
 Previously I was a research assistant at Imperial College London where I got my PhD in Computing at the [intelligent behaviour understanding group (iBUG)](https://ibug.doc.ic.ac.uk/) under the supervision of [Prof. Maja Pantic](https://ibug.doc.ic.ac.uk/maja/).
 Before that I studied in Aristotle University of Thessaloniki where I received my Diploma in Electrical and Computing Engineering.
