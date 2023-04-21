@@ -5,6 +5,23 @@ author_profile: true
 
 ---
 ## 2020
+- **S. Eleftheriadis**, D. Richards, J. Hensman. Sparse Gaussian processes with spherical harmonics features revisited. *arXiv*.<br/>
+[<a href="../publications/files/eleftheriadis2023spherical.pdf"><font color="1A75FF">pdf</font></a>]
+[<a href="../publications/files/doubly_supp_mat.pdf"><font color="1A75FF">supplementary</font></a>]
+[<a href="javascript:toggleBibtex('eleftheriadis2023sparse')"><font color="1A75FF">bibtex</font></a>]
+  <div id="bib_adam2020doubly" class="bibtex noshow">
+  <pre>
+@article{eleftheriadis2023sparse,
+  title={Sparse Gaussian Processes with Spherical Harmonic Features Revisited},
+  author={Eleftheriadis, Stefanos and Richards, Dominic and Hensman, James},
+  journal={arXiv preprint arXiv:2303.15948},
+  year={2023}
+}
+  </pre>
+  </div>
+
+---
+## 2020
 - V. Adam, **S. Eleftheriadis**, N. Durrande, A. Artemev, J. Hensman. Doubly sparse variational Gaussian processes. *International Conference on Artificial Intelligence and Statistics (AISTATS)*.<br/>
 [<a href="../publications/files/adam2020doubly.pdf"><font color="1A75FF">pdf</font></a>]
 [<a href="../publications/files/doubly_supp_mat.pdf"><font color="1A75FF">supplementary</font></a>]
