@@ -18,6 +18,9 @@ author_profile: true
 }
   </pre>
   </div>
+  
+- **S. Eleftheriadis**. Graph GPs as emulators for rebalancing Amazon's supply chain network. *UCL talk*.<br/>
+[<a href="../publications/files/UCL_talk.pdf"><font color="1A75FF">pdf</font></a>]
 
 ---
 ## 2020
