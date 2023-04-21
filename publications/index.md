@@ -7,9 +7,8 @@ author_profile: true
 ## 2023
 - **S. Eleftheriadis**, D. Richards, J. Hensman. Sparse Gaussian processes with spherical harmonics features revisited. *arXiv*.<br/>
 [<a href="../publications/files/eleftheriadis2023spherical.pdf"><font color="1A75FF">pdf</font></a>]
-[<a href="../publications/files/doubly_supp_mat.pdf"><font color="1A75FF">supplementary</font></a>]
 [<a href="javascript:toggleBibtex('eleftheriadis2023sparse')"><font color="1A75FF">bibtex</font></a>]
-  <div id="bib_adam2020doubly" class="bibtex noshow">
+  <div id="bib_eleftheriadis2023sparse" class="bibtex noshow">
   <pre>
 @article{eleftheriadis2023sparse,
   title={Sparse Gaussian Processes with Spherical Harmonic Features Revisited},
