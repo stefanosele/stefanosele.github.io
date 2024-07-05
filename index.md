@@ -6,7 +6,9 @@ author_profile: true
 ---
 # Welcome!
 
-I'm an applied machine learning scientist at Amazon, where I build Bayesian emulators for Amazon's marketplace simulator.
+I'm a machine learning scientist at BlueCrest capital management, where I lead the efforts on designing strategies based on quantitative ML and generative models.
+
+Previously, I was at Amazon, building Bayesian emulators for Amazon's marketplace simulator, as an applied machine learning scientist.
 Before Amazon, I worked as an applied scientist at [Secondmind](http://secondmind.ai), specialising in probabilistic models for time series analysis and forecasting.
 I received my PhD in Computing from [Imperial College London](http://www.imperial.ac.uk/computing).
 
