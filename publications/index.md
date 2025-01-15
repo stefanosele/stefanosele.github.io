@@ -12,7 +12,7 @@ author_profile: true
   <pre>
 @inproceedings{cortinovis2024inversefree,
   title={Inverse-Free Sparse Variational Gaussian Processes},
-  author={Stefano Cortinovis and Stefanos Eleftheriadis and Laurence Aitchison and James Hensman      and Mark van der Wilk},
+  author={Stefano Cortinovis and Laurence Aitchison and James Hensman and Stefanos Eleftheriadis and Mark van der Wilk},
   booktitle={NeurIPS 2024 Workshop on Bayesian Decision-making and Uncertainty},
 year={2024},
 url={https://openreview.net/forum?id=nFHpVRvOgH}
