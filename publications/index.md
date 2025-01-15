@@ -8,7 +8,7 @@ author_profile: true
 - S. Cortinovis, L. Aitchison, J. Hensman, **S. Eleftheriadis**, M. van der Wilk. Inverse-free sparse variational Gaussian processes. *NeurIPS 2024 Workshop on Bayesian Decision-making and Uncertainty*.<br/>
 [<a href="../publications/files/cortinovis2024inverse.pdf"><font color="1A75FF">pdf</font></a>]
 [<a href="javascript:toggleBibtex('cortinovis2024inverse')"><font color="1A75FF">bibtex</font></a>]
-  <div id="bib_eleftheriadis2023sparse" class="bibtex noshow">
+  <div id="bib_cortinovis2024inverse" class="bibtex noshow">
   <pre>
 @inproceedings{cortinovis2024inversefree,
   title={Inverse-Free Sparse Variational Gaussian Processes},
