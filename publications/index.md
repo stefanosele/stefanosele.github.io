@@ -4,6 +4,23 @@ author_profile: true
 ---
 
 ---
+## 2024
+- S. Cortinovis, L. Aitchison, J. Hensman, **S. Eleftheriadis**, M. van der Wilk. Inverse-free sparse variational Gaussian processes. *NeurIPS 2024 Workshop on Bayesian Decision-making and Uncertainty*.<br/>
+[<a href="../publications/files/cortinovis2024inverse.pdf"><font color="1A75FF">pdf</font></a>]
+[<a href="javascript:toggleBibtex('cortinovis2024inverse')"><font color="1A75FF">bibtex</font></a>]
+  <div id="bib_eleftheriadis2023sparse" class="bibtex noshow">
+  <pre>
+@inproceedings{cortinovis2024inversefree,
+  title={Inverse-Free Sparse Variational Gaussian Processes},
+  author={Stefano Cortinovis and Stefanos Eleftheriadis and Laurence Aitchison and James Hensman      and Mark van der Wilk},
+  booktitle={NeurIPS 2024 Workshop on Bayesian Decision-making and Uncertainty},
+year={2024},
+url={https://openreview.net/forum?id=nFHpVRvOgH}
+}
+  </pre>
+  </div>
+
+---
 ## 2023
 - **S. Eleftheriadis**, D. Richards, J. Hensman. Sparse Gaussian processes with spherical harmonics features revisited. *arXiv*.<br/>
 [<a href="../publications/files/eleftheriadis2023spherical.pdf"><font color="1A75FF">pdf</font></a>]
