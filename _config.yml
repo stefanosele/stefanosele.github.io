@@ -69,9 +69,11 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    - https://twitter.com/stefanos_ele
+    # - https://twitter.com/stefanos_ele
     - https://www.linkedin.com/in/seleftheriadis/
     - https://scholar.google.co.uk/citations?user=OXAHmt4AAAAJ&hl=en
+    - https://bsky.app/profile/stefele.bsky.social
+
 
 # Analytics
 analytics:
@@ -87,23 +89,23 @@ author:
   bio              : "Machine learning scientist"
   location         : "London, UK"
   email            : "stelefth@gmail.com"
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:stelefth@gmail.com"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/seleftheriadis/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/stefanos_ele"
-    - label: "Google Scholar"
-      icon: "fas fa-fw fa-graduation-cap"
-      url: "https://scholar.google.co.uk/citations?user=OXAHmt4AAAAJ&hl=en"
-    - label: "Bluesky"
-      icon: "fas fa-fw fa-cloud"
-      url: "https://bsky.app/profile/stefele.bsky.social"
-  # scholar          : "OXAHmt4AAAAJ&hl=en"
+  # links:
+  #   - label: "Email"
+  #     icon: "fas fa-fw fa-envelope-square"
+  #     url: "mailto:stelefth@gmail.com"
+  #   - label: "LinkedIn"
+  #     icon: "fab fa-fw fa-linkedin"
+  #     url: "https://www.linkedin.com/in/seleftheriadis/"
+  #   - label: "Twitter"
+  #     icon: "fab fa-fw fa-twitter-square"
+  #     url: "https://twitter.com/stefanos_ele"
+  #   - label: "Google Scholar"
+  #     icon: "fas fa-fw fa-graduation-cap"
+  #     url: "https://scholar.google.co.uk/citations?user=OXAHmt4AAAAJ&hl=en"
+  #   - label: "Bluesky"
+  #     icon: "fas fa-fw fa-cloud"
+  #     url: "https://bsky.app/profile/stefele.bsky.social"
+  scholar          : "OXAHmt4AAAAJ&hl=en"
   # uri              :
   # bitbucket        :
   # codepen          :
@@ -117,7 +119,7 @@ author:
   # keybase          :
   # instagram        :
   # lastfm           :
-  # linkedin         : "seleftheriadis" 
+  linkedin         : "seleftheriadis" 
   # pinterest        :
   # soundcloud       :
   # stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
@@ -128,7 +130,7 @@ author:
   # weibo            :
   # xing             :
   # youtube          : # "https://youtube.com/c/MichaelRoseDesign"
-  # bluesky          : "@stefele.bsky.social"
+  bluesky          : "@stefele.bsky.social"
 
 
 # Reading Files
