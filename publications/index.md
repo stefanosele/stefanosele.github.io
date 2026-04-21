@@ -8,6 +8,7 @@ author_profile: true
 - S. Cortinovis, L. Aitchison, **S. Eleftheriadis**, M. van der Wilk. Inverse-free sparse variational Gaussian processes. *International Conference on Artificial Intelligence and Statistics (AISTATS)*.<br/>
 [<a href="../publications/files/cortinovis2026inverse.pdf"><font color="1A75FF">pdf</font></a>]
 [<a href="javascript:toggleBibtex('cortinovis2026inverse')"><font color="1A75FF">bibtex</font></a>]
+[<a href="https://github.com/stefanocortinovis/relaxedgp"><font color="1A75FF">code</font></a>]
   <div id="bib_cortinovis2026inverse" class="bibtex noshow">
   <pre>
 @inproceedings{
@@ -20,7 +21,6 @@ url={https://openreview.net/forum?id=zQZ6CSVoQj}
 }
   </pre>
   </div>
-[<a href="https://github.com/stefanocortinovis/relaxedgp"><font color="1A75FF">code</font></a>]
 
 ---
 ## 2024
