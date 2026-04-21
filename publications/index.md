@@ -4,6 +4,25 @@ author_profile: true
 ---
 
 ---
+## 2026
+- S. Cortinovis, L. Aitchison, **S. Eleftheriadis**, M. van der Wilk. Inverse-free sparse variational Gaussian processes. *International Conference on Artificial Intelligence and Statistics (AISTATS)*.<br/>
+[<a href="../publications/files/cortinovis2026inverse.pdf"><font color="1A75FF">pdf</font></a>]
+[<a href="javascript:toggleBibtex('cortinovis2026inverse')"><font color="1A75FF">bibtex</font></a>]
+  <div id="bib_cortinovis2026inverse" class="bibtex noshow">
+  <pre>
+@inproceedings{
+cortinovis2026inversefree,
+title={Inverse-Free Sparse Variational Gaussian Processes},
+author={Stefano Cortinovis and Laurence Aitchison and Stefanos Eleftheriadis and Mark van der Wilk},
+booktitle={The 29th International Conference on Artificial Intelligence and Statistics},
+year={2026},
+url={https://openreview.net/forum?id=zQZ6CSVoQj}
+}
+  </pre>
+  </div>
+[<a href="https://github.com/stefanocortinovis/relaxedgp"><font color="1A75FF">code</font></a>]
+
+---
 ## 2024
 - S. Cortinovis, L. Aitchison, J. Hensman, **S. Eleftheriadis**, M. van der Wilk. Inverse-free sparse variational Gaussian processes. *NeurIPS 2024 Workshop on Bayesian Decision-making and Uncertainty*.<br/>
 [<a href="../publications/files/cortinovis2024inverse.pdf"><font color="1A75FF">pdf</font></a>]
